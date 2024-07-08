@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Derek-Stafford
+- 👋 Hi, I’m @Boulder
 - 👀 I’m interested in aircraft, coding, and translating. 
 - 🌱 I’m currently learning JavaScript
 - ⚡ Fun fact: I'm reading 5 different books at the same time and learning three different languages (French, Japanese, and Spanish). 
